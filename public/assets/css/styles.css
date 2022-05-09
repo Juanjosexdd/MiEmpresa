@@ -1,0 +1,15 @@
+@media (max-width: 600px) {
+    .btn_paysale {
+        margin-bottom: 83px;
+    }
+
+    .input_quantity {
+        margin-left: 50x;
+    }
+
+    .content_btn
+    {
+        display: flex;
+        justify-content: center;
+    }
+}

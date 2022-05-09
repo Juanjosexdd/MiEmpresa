@@ -1,0 +1,2 @@
+- Las funciones principales del carrito de compras están en el controlador Controller.php
+- Tener en cuenta realizas las migraciones para la carga de datos por defecto
