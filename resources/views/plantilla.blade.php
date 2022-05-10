@@ -102,7 +102,7 @@
                             <div class="nav-hotline">
                                 <i class="lni lni-phone"></i>
                                 <h3>Teléfono:
-                                    <span>(+58) {{ Controller::get_settings()->phone }}</span>
+                                    <span>(+58) 4125205105</span>
                                 </h3>
                             </div>
 
@@ -159,10 +159,10 @@
                         <h5 class="title">Síguenos:</h5>
                         <ul>
                             <li>
-                                <a href="{{ Controller::get_settings()->url_fb }}" target="_blank"><i class="lni lni-facebook-filled"></i></a>
+                                <a href="" target="_blank"><i class="lni lni-facebook-filled"></i></a>
                             </li>
                             <li>
-                                <a href="{{ Controller::get_settings()->logo_insta }}" target="_blank"><i class="lni lni-instagram"></i></a>
+                                <a href="" target="_blank"><i class="lni lni-instagram"></i></a>
                             </li>
                         </ul>
                     </div>
